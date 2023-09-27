@@ -1,0 +1,17 @@
+browsername = chrome
+geturl = https://www.facebook.com/
+mailid = anbu@123gmail.com
+password = A123456@
+firstname = anbu
+surname = m
+registerMobilenumber = 9876123450
+registerPassword = Abcd123@
+birthDate = 13
+birthMonth = May
+birthYear = 2002
+maleGender = male
+femaleGender = 
+customGender = 
+Goback = yes
+
+elementname =click
